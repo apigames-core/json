@@ -13,7 +13,7 @@
   ],
   "description": "API Games JSON Utilities",
   "license": "MIT",
-  "version": "27.1.0",
+  "version": "27.1.1",
   "type": "commonjs",
   "engines": {
     "node": ">=26"
